@@ -1,7 +1,5 @@
 {
-  "scope": [
-  "source.js"
-  ],
+  "scope": "source.js",
 
   "completions": [
     { "trigger": "async.each", "contents": "async.each(${1:arr}, ${2:iterator}, function(${3:args}){\n\t${4:// body}\n})${0}" },
